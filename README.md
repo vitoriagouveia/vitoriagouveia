@@ -2,7 +2,6 @@
 - 🌱 Estou cursando informática...
 - 😄 Pronouns: ela/dela...
 - ⚡ Fun fact: Gosto de ouvir música...
-<div>
- <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">
-</div>
+
+![image](https://github.com/user-attachments/assets/d87957e6-e8c7-4806-a284-de0df8c09f5f)
+
