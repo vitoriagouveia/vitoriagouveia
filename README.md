@@ -1,0 +1,9 @@
+## olá! Eu sou a vitoriagouveia
+- 🌱 Estou cursando informática...
+- 😄 Pronouns: ela/dela...
+- ⚡ Fun fact: Gosto de ouvir música...
+
+<!---
+vitoriagouveia/vitoriagouveia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
